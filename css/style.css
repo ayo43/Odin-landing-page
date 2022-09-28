@@ -1,0 +1,28 @@
+.five {
+    background-color: #1F2937;
+    color: white;
+    bottom: 0px;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    text-align: center;
+    padding: 10px;
+
+}
+.four {
+    background-color: yellow;
+
+}
+.three {
+    background-color: green;
+
+
+}
+
+.two {
+    background-color: orange;
+}
+.one {
+    background-color: black;
+    color: white;
+}
