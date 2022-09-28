@@ -1,3 +1,8 @@
+body {
+    padding:0px;
+    margin: 0px;
+    
+}
 .five {
     background-color: #1F2937;
     color: white;
@@ -23,6 +28,6 @@
     background-color: orange;
 }
 .one {
-    background-color: black;
+    background-color:#1F2937;
     color: white;
 }
