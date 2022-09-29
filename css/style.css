@@ -6,26 +6,28 @@ body {
 .five {
     background-color: #1F2937;
     color: white;
-    bottom: 0px;
-    position: absolute;
-    right: 0px;
-    left: 0px;
     text-align: center;
-    padding: 10px;
+    margin:0px;
+    padding:20px;
+
 
 }
 .four {
-    background-color: yellow;
+    color: white
 
 }
 .three {
-    background-color: green;
+    background-color: #e5e7eb;
+    padding: 50px;
+    text-align: center;
 
 
 }
 
 .two {
-    background-color: orange;
+    background-color: white;
+    padding:200px;
+    
 }
 .one {
     background-color:#1F2937;
@@ -43,8 +45,7 @@ body {
 ul {
     list-style-type: none;
     overflow: hidden;
-    margin:0;
-    padding:0;
+   
 }
 li a {
     display: block;
@@ -89,4 +90,21 @@ input {
     height: 300px;
     margin-right:20px;
     
+}
+.obj {
+    border: 5px solid #3882f6;
+    border-radius:15px;
+    width: 200px;
+    height:200px;
+    
+
+}
+.fourth-inner {
+    padding: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 50px;
+    background-color:#3882f6;
+    border-radius: 20px;
+   
 }
